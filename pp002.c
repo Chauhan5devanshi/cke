@@ -1,3 +1,4 @@
+//Write a program to input a number and check it to be even or odd using if statement.
 #include<stdio.h>
 main()
 {
@@ -12,3 +13,6 @@ main()
 		break;
 	}
 }
+/*Output:
+Enter the number:24
+number is even*/
