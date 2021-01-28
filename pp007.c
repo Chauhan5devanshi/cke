@@ -10,7 +10,7 @@ main()
 		scanf("%d",&n);
 		if(n!=0)
 	    	n%2?printf("%d is odd\n",n):printf("%d is even\n",n);
-	    else break;	
+                else break;	
 		
 }
 }
