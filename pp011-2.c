@@ -1,4 +1,4 @@
-//main() function file taking a number as a input.
+//main() function file taking a number as an input.
 #include<stdio.h>
 main()
 {
